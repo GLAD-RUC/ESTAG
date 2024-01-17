@@ -2,6 +2,8 @@
 
 
 [**[Paper]**](https://openreview.net/pdf?id=35nFSbEBks)
+![Overview](estag.png "Overview")
+
 
 ## Initialize Environment
 It is suggested to use `conda` to manage the python environment, and you can install the required packages from the provided `environment.yml` directly.
