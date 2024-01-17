@@ -1,7 +1,7 @@
 # Equivariant Spatio-Temporal Attentive Graph Networks for Physical Dynamics Simulation
 
 
-[**[Paper]**]([https://openreview.net/forum?id=35nFSbEBks&noteId=BwW3NXOyXx](https://openreview.net/pdf?id=35nFSbEBks)) 
+[**[Paper]**](https://openreview.net/pdf?id=35nFSbEBks)
 
 ## Initialize Environment
 It is suggested to use `conda` to manage the python environment, and you can install the required packages from the provided `environment.yml` directly.
