@@ -76,7 +76,17 @@ Here we demonstrate with MD17 as an instance, and the same procedure can be empl
 2. Based on the predicted coordinates, launch the file `visualization/vis_md.ipynb` to display the molecule.
 
 
+## Citation
 
-
+If our work is helpful for your research, you can cite it as follows:
+```
+@article{limi_2024_estag,
+  title={Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics},
+  author={Wu, Liming and Hou, Zhichao and Yuan, Jirui and Rong, Yu and Huang, Wenbing},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}
+```
 
 
