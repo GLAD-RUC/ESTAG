@@ -1,7 +1,7 @@
 # Equivariant Spatio-Temporal Attentive Graph Networks for Physical Dynamics Simulation
 
 
-[**[Paper]**](https://openreview.net/pdf?id=35nFSbEBks)
+[**[Paper]**](https://arxiv.org/abs/2405.12868)
 ![Overview](estag.png "Overview")
 
 
